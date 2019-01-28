@@ -1,6 +1,6 @@
 token=NTIxNjc2ODM3ODMxNzA0NTg2.DvBjIA.vy7NFdzAaWONtCrcuWsXhiZ8m3I
 owner=429335711267815424
 prefix=2
-game=Tpye 2help
+game=Upside Down !
 stayinchannel=true
 songinstatus=true
