@@ -1,6 +1,6 @@
 token=NTIxNjc2ODM3ODMxNzA0NTg2.DvBjIA.vy7NFdzAaWONtCrcuWsXhiZ8m3I
-owner=429335711267815424
-prefix=2
-game=Upside Down !
+owner=541974051510288406
+prefix=V
+game=
 stayinchannel=true
 songinstatus=true
